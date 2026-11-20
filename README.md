@@ -175,4 +175,4 @@ Como o "ajudou" é autodeclarado, a equipe também revisou as perguntas registra
 
 ## 12. Vídeo Técnico
 
-- **Link (YouTube, não listado): [PREENCHER]**
+- **Link (YouTube, não listado): https://youtu.be/Ol45q_BdEA0**
